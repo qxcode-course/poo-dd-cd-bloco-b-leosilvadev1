@@ -7,15 +7,16 @@ class Chinela:
             self.__tamanho = valor
             return self.__tamanho
 
-    def getTamanho(self): # métodos em python tem self como primeiro atributo
+    def getTamanho(self): 
         return self.__tamanho
 
 def main():
     chinela = Chinela()
-    while chinela.getTamanho() == 0: # mantendo usuário no loop
+    while chinela.getTamanho() == 0: 
         print("Digite seu tamanho de chinela")
-        tamanho = int(input()) # lendo a resposta e convertendo pra inteiro
-        chinela.setTamanho(tamanho)
-        print("Parabens, você comprou uma chinela tamanho", chinela.getTamanho())
-
+        tamanho = int(input()) 
+        if chinela.setTamanho(tamanho):
+            print("Parabens, você comprou uma chinela tamanho", chinela.getTamanho())
+        else:
+            print(f"Não existe esse tamanho")
 main()
