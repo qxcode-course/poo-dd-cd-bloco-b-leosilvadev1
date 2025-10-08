@@ -1,13 +1,23 @@
 class Camisa:
     def __init__(self): 
         self.__tamanho: str = ""
-        
-    def getTamanho(self) -> str: # métodos em python tem self como primeiro atributo
+
+    def setTamanho(self, valor: str) -> None:
+        if valor == "PP":
+            self.__tamanho = valor
+        if valor == "P": 
+            self.__tamanho = valor
+        if valor == "M": 
+            self.__tamanho = valor
+        if valor == "G": 
+            self.__tamanho = valor
+        if valor == "GG": 
+            self.__tamanho = valor
+        if valor == "XG": 
+            self.__tamanho = valor
         return self.__tamanho
 
-    def setTamanho(self, valor: str):
-       if valor == "P" or "PP" or "M" or "G" or "GG" or "XG":
-        valor = self.__tamanho
+    def getTamanho(self):
         return self.__tamanho
 
 def main():
@@ -18,6 +28,7 @@ def main():
         if roupa.setTamanho(tamanho):
             print("Parabens, você comprou uma roupa tamanho", roupa.getTamanho())
         else:
-            print("Tamanho não identificado. Escolha um destes tamanhos: P, PP, M, G, GG, XG.")
+            print(f"Tamanho não identificado. Escolha um destes tamanhos: P, PP, M, G, GG, XG.")
 main()
+
 
