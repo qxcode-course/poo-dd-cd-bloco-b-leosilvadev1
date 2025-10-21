@@ -1,0 +1,28 @@
+2025-10-21 14:29:21, MOVE, v:1, k:poo@relogio, mode:PICK
+2025-10-21 14:29:23, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:70
+2025-10-21 14:29:24, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0
+2025-10-21 14:35:21, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:81
+2025-10-21 14:35:25, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0
+2025-10-21 14:35:49, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:81
+2025-10-21 14:36:07, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:81
+2025-10-21 14:36:14, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:81
+2025-10-21 14:37:52, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:85
+2025-10-21 14:38:58, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:85
+2025-10-21 14:39:31, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:85
+2025-10-21 14:42:10, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:85
+2025-10-21 14:43:51, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:43:52, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0
+2025-10-21 14:43:52, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0
+2025-10-21 14:43:56, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0
+2025-10-21 14:44:44, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:45:40, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:46:08, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:46:20, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:47:20, EXEC, v:1, k:poo@relogio, mode:FULL, rate:0, size:84
+2025-10-21 14:47:40, EXEC, v:1, k:poo@relogio, mode:FULL, rate:7, size:84
+2025-10-21 14:54:27, EXEC, v:1, k:poo@relogio, mode:FULL, rate:7, size:84
+2025-10-21 14:55:28, EXEC, v:1, k:poo@relogio, mode:FULL, rate:7
+2025-10-21 14:56:30, EXEC, v:1, k:poo@relogio, mode:FULL, rate:38, size:84
+2025-10-21 14:57:10, EXEC, v:1, k:poo@relogio, mode:FULL, rate:38, size:84
+2025-10-21 15:07:30, EXEC, v:1, k:poo@relogio, mode:FULL, rate:46, size:86
+2025-10-21 15:11:14, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100, size:86
