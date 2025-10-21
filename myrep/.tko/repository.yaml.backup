@@ -20,6 +20,7 @@ tasks:
   poo@chinela: '{rate:100, alone:10, study:50}'
   poo@camisa: '{rate:100, alone:10, study:70}'
   poo@roupa: '{rate:100, human:monitor, alone:9, study:90}'
+  poo@relogio: '{rate:100, human:amigo, alone:9, study:90}'
 flags:
   quests: 0
   tracks: 0

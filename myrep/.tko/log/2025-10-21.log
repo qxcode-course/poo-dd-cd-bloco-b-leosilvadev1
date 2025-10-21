@@ -26,3 +26,5 @@
 2025-10-21 14:57:10, EXEC, v:1, k:poo@relogio, mode:FULL, rate:38, size:84
 2025-10-21 15:07:30, EXEC, v:1, k:poo@relogio, mode:FULL, rate:46, size:86
 2025-10-21 15:11:14, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100, size:86
+2025-10-21 15:14:01, MOVE, v:1, k:poo@relogio, mode:BACK
+2025-10-21 15:14:42, SELF, v:1, k:poo@relogio, rate:100, human:amigo, alone:9, study:90
