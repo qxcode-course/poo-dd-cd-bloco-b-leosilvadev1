@@ -8,7 +8,7 @@ class Roupa:
             print("fail: Valor inválido, tente PP, P, M, G, GG ou XG")
             return
         self.__tamanho = valor
-
+                  
     def get_tamanho(self) -> str:
         return self.__tamanho
 
