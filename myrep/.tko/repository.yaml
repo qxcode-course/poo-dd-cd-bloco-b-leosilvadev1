@@ -12,7 +12,7 @@ sources:
   type: remote
   branch: master
   cache_path: C:\Users\Leandro Silva Lima\poo-dd-cd-bloco-b-leosilvadev1\myrep\.tko\cache\poo.md
-  cache_timestamp: '2025-10-28 02:14:37'
+  cache_timestamp: '2025-10-28 13:04:44'
   filters:
   - acesso
   - simples
@@ -26,6 +26,7 @@ tasks:
   poo@roupa: '{rate:100, human:monitor, alone:9, study:90}'
   poo@relogio: '{rate:100, human:amigo, alone:9, study:90}'
   poo@motoca: '{rate:100, iagen:gemini, alone:9, study:120}'
+  poo@grafite: '{rate:100, human:amigo, alone:7, study:60}'
   poo@motouber: '{rate:100, alone:10, study:210}'
 flags:
   quests: 0
