@@ -75,3 +75,5 @@
 2025-10-28 02:09:02, EXEC, v:1, k:poo@motoca, mode:FULL, rate:100, size:106
 2025-10-28 02:09:15, MOVE, v:1, k:poo@motoca, mode:BACK
 2025-10-28 02:09:38, SELF, v:1, k:poo@motoca, rate:100, iagen:gemini, alone:9, study:120
+2025-10-28 02:10:27, MOVE, v:1, k:poo@motoca, mode:PICK
+2025-10-28 02:10:28, EXEC, v:1, k:poo@motoca, mode:FULL, rate:100
