@@ -2,13 +2,17 @@ version: '0.2'
 sources:
 - database: local
   link: ''
+  type: local
+  branch: master
   cache_path: ''
   cache_timestamp: ''
   filters: null
 - database: poo
   link: https://github.com/qxcodepoo/arcade/blob/master/Readme.md
+  type: remote
+  branch: master
   cache_path: C:\Users\Leandro Silva Lima\poo-dd-cd-bloco-b-leosilvadev1\myrep\.tko\cache\poo.md
-  cache_timestamp: '2025-10-28 00:40:54'
+  cache_timestamp: '2025-10-28 02:14:37'
   filters:
   - acesso
   - simples
@@ -30,4 +34,4 @@ flags:
   graph: 0
   xray: 0
 lang: py
-selected: poo@motoca
+selected: poo@grafite
