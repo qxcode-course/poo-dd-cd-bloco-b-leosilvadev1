@@ -1,0 +1,77 @@
+2025-10-28 00:41:00, MOVE, v:1, k:poo@motoca, mode:DOWN
+2025-10-28 00:41:02, MOVE, v:1, k:poo@motoca, mode:PICK
+2025-10-28 00:41:03, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:0
+2025-10-28 00:54:51, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:44
+2025-10-28 00:55:07, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:44
+2025-10-28 00:55:08, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 00:55:09, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 00:55:27, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:47
+2025-10-28 00:55:29, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 00:59:15, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:57
+2025-10-28 00:59:22, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 00:59:25, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:57
+2025-10-28 01:03:27, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:66
+2025-10-28 01:03:29, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:04:58, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:72
+2025-10-28 01:05:08, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:72
+2025-10-28 01:07:29, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:78
+2025-10-28 01:07:35, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:78
+2025-10-28 01:08:10, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:80
+2025-10-28 01:10:01, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:85
+2025-10-28 01:10:09, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:85
+2025-10-28 01:11:19, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:85
+2025-10-28 01:12:00, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:85
+2025-10-28 01:15:23, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:94
+2025-10-28 01:16:30, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:97
+2025-10-28 01:17:15, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:97
+2025-10-28 01:22:47, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:97
+2025-10-28 01:23:06, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:97
+2025-10-28 01:30:40, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:101
+2025-10-28 01:30:51, EXEC, v:1, k:poo@motoca, mode:FULL, rate:13, size:101
+2025-10-28 01:32:22, EXEC, v:1, k:poo@motoca, mode:FULL, rate:13, size:104
+2025-10-28 01:35:39, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:99
+2025-10-28 01:37:11, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:100
+2025-10-28 01:37:13, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:48:17, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:48:20, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:48:41, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:49:36, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:49:37, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:50:14, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:52:33, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:53:55, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:54:32, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:57:26, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:106
+2025-10-28 01:57:27, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:57:27, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 01:57:33, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 01:57:34, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:00:51, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:109
+2025-10-28 02:00:52, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:00:52, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:00:52, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:00:52, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:00:53, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:01:00, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:01:01, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:01:02, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:02:18, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:109
+2025-10-28 02:02:55, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:109
+2025-10-28 02:03:20, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 02:03:21, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:03:21, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:03:21, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:03:22, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:03:22, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:03:59, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 02:04:12, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 02:04:35, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:107
+2025-10-28 02:05:02, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:106
+2025-10-28 02:05:03, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:05:03, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:06:03, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:106
+2025-10-28 02:06:04, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0
+2025-10-28 02:07:50, EXEC, v:1, k:poo@motoca, mode:FULL, rate:0, size:106
+2025-10-28 02:09:02, EXEC, v:1, k:poo@motoca, mode:FULL, rate:100, size:106
+2025-10-28 02:09:15, MOVE, v:1, k:poo@motoca, mode:BACK
+2025-10-28 02:09:38, SELF, v:1, k:poo@motoca, rate:100, iagen:gemini, alone:9, study:120
